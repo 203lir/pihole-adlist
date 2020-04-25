@@ -1,1 +1,1 @@
-192.168.198.77 www.pi.hole
+0.0.0.0 taboola.com
