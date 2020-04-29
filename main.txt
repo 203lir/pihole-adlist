@@ -1,1 +1,1 @@
-0.0.0.0 o.aolcdn.com
+0.0.0.0 audio-akp-bbr-spotify-com.akamaized.net
